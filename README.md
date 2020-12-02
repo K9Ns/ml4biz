@@ -18,15 +18,20 @@
 ## 책 소개
 
 ### 목차
-* [Chapter 1:](/chapter1)
+* [Chapter 2: 기술 담당자에게 구매 결재 검토 요청을 전달해야 하는가](/ch02)
+* [Chapter 3: 이탈 조짐을 보이는 고객 찾기](/ch03)
+* [Chapter 4: 고객 문의사항을 고객지원팀에 전달 여부 결정](/ch04)
+* [Chapter 5: 공급업체가 보낸 청구서에 대해 추가 질의 여부 결정](/ch05)
+* [Chapter 6: 월간 전력 사용량 예측](/ch06)
+* [Chapter 7: 월간 전력 사용량 예측 성능 향상](/ch07)
+* [Chapter 8: 웹 서비스로 예측 모델 제공하기](/ch08)
+
 
 ### 설치 방법
 
 git 명령어로 저장소를 다운받은 후 서브모듈을 업데이트 합니다.
 
 ```sh
-$ git clone git@github.com:K9Ns/ml4biz.git
+$ git clone https://github.com/K9Ns/ml4biz.git
 $ cd ml4biz
 ```
-
-## 라이센스 
