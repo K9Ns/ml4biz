@@ -28,8 +28,8 @@
 
 
 ### 설치 방법
-
-git 명령어로 저장소를 다운받은 후 서브모듈을 업데이트 합니다.
+Git 설치 방법은 [링크](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)를 확인하시기 바랍니다.
+설치 후 git 명령어로 저장소를 다운받습니다.
 
 ```sh
 $ git clone https://github.com/K9Ns/ml4biz.git
