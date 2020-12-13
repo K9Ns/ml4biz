@@ -26,7 +26,7 @@
 * [Chapter 7: 월간 전력 사용량 예측 성능 향상](/ch07)
 * [Chapter 8: 웹 서비스로 예측 모델 제공하기](/ch08)
 
-* [Appendix B: S3 파일을 저장하기 위한 S3 설정 및 사용 방법](/appendix/b_s3.md)
+* [Appendix B: S3 파일을 저장하기 위한 S3 설정 및 사용 방법(변경된 S3 콘솔 UI 대응)](/appendix/b_s3.md)
 
 
 ### 설치 방법
