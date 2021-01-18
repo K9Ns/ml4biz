@@ -26,6 +26,10 @@
 * [Chapter 2: 기술 담당자에게 구매 결재 검토 요청을 전달해야 하는가](/ch02)
 * [Chapter 3: 이탈 조짐을 보이는 고객 찾기](/ch03)
 * [Chapter 4: 고객 문의사항을 고객지원팀에 전달 여부 결정](/ch04)
+  - 챕터 4장에서 사용하는 *inbound.csv* 데이터의 경우 파일이 크기 문제로 Git LFS 서비스에 의해 저장되어 있습니다.
+  - LFS 를 설치/연동 후 정상적으로 다운로드 받을 수 있습니다.
+  - [Git LFS 튜터리얼](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
+  - 또는 [다운로드 링크](https://s3.amazonaws.com/mlforbusiness/ch04/inbound.csv) 를 통해 다운로드 하신 후 사용하시기 바랍니다.
 * [Chapter 5: 공급업체가 보낸 청구서에 대해 추가 질의 여부 결정](/ch05)
 * [Chapter 6: 월간 전력 사용량 예측](/ch06)
 * [Chapter 7: 월간 전력 사용량 예측 성능 향상](/ch07)
